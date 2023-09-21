@@ -2,4 +2,4 @@
 
 AOS Python Sample Service
 
-Please read https://docs.aoscloud.io/bin/view/Home/Cookbooks/Get%20started/Create%20an%20Aos%20service/ to use the service on the AosEdge unit.
+Please read [AOSEdge Cookbook](https://docs.aoscloud.io/bin/view/Cookbooks/3.%20Create%20your%20first%20AosEdge%20service/) how to use the service on the AosEdge unit.
