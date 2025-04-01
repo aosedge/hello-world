@@ -18,7 +18,7 @@ publish:
     url: aoscloud.io
     service_uid: your-service-uuid-here
     tls_pkcs12: aos-user-sp.p12
-    version: "1.0"
+    version: "1.0.0"
 
 # Service configuration
 configuration:
@@ -45,4 +45,4 @@ configuration:
         # temp: 32KB
 
 # For additional information please visit the page:
-# https://docs.aoscloud.io/bin/view/Home/Architecture/General/Data%20formats/Service%20formats/Containers%20configuration%20file/
+# https://docs.aosedge.tech/docs/reference/file-formats/service-config
